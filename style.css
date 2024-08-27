@@ -106,6 +106,9 @@ main {
     max-width: 336px;
     display: none;
 }
+.footer{
+text-align: center;
+}
 
 @media (min-width: 768px) {
     main {
